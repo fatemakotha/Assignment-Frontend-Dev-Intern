@@ -1,11 +1,14 @@
 .bg-img1 {
+  position: relative;
   background-color: red;
-  width: 1565px;
   height: 1043.33px;
+  margin: 0px;
 }
 
 .bg-img2 {
   background-color: blue;
+
+  height: 889px;
 }
 
 .bg-img3 {
