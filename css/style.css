@@ -1,3 +1,21 @@
 .bg-img1 {
   background-color: red;
+  width: 1565px;
+  height: 1043.33px;
+}
+
+.bg-img2 {
+  background-color: blue;
+}
+
+.bg-img3 {
+  background-color: green;
+}
+
+.bg-img4 {
+  background-color: grey;
+}
+
+.bg-img5 {
+  background-color: orange;
 }
