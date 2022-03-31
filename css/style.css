@@ -6,14 +6,11 @@ body {
 }
 .bg-img1 {
   position: relative;
-  
+
   height: 1043.33px;
   margin: 0px;
 
-  background-image: url('img_cover_donate.jpeg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+background-image: url("img_cover_donate.jpeg");
 }
 
 
@@ -21,7 +18,7 @@ body {
 
 
 .bg-img2 {
-
+background-color: pink;
 
 }
 
@@ -30,7 +27,7 @@ body {
 }
 
 .bg-img4 {
-  background-color: grey;
+
 }
 
 .bg-img5 {
