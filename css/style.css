@@ -12,8 +12,8 @@ body {
 }
 
 .bg-img2 {
-  background-color: blue;
-
+  
+  background-image: url("../../media/examples/lizard.png");
   height: 889px;
 }
 
