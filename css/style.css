@@ -12,7 +12,11 @@ body {
 
 background-image: url("img_cover_donate.jpeg");
 }
-
+.par-sec1 {
+  font-size: 36px;
+  line-height: 74px;
+  margin-top: -500px;
+}
 
 
 
