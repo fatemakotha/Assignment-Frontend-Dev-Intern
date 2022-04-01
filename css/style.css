@@ -4,6 +4,12 @@ head {
 body {
   margin: 0px;
 }
+/* container-fluid */
+.container-fluid {
+  margin: 0px;
+  padding: 0px;
+}
+
 .bg-img1 {
   position: relative;
 
