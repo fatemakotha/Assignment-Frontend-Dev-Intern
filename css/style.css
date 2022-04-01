@@ -6,17 +6,20 @@ body {
 }
 /* container-fluid */
 .container-fluid {
-  margin: 0px;
-  padding: 0px;
+margin: 0px;
+padding: 0px;
 }
+/* div class ="row" */
+
+/* columns */
 
 .bg-img1 {
   position: relative;
 
   height: 1043.33px;
   margin: 0px;
+  padding: 0px;
 
-background-image: url("img_cover_donate.jpeg");
 }
 .par-sec1 {
   font-size: 36px;
