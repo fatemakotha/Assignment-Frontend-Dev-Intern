@@ -1,27 +1,23 @@
-head {
+head {}
 
-}
 body {
   margin: 0px;
 }
+
 /* container-fluid */
 .container-fluid {
-margin: 0px;
-padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
+
 /* div class ="row" */
-
 /* columns */
-
 .bg-img1 {
   position: relative;
-
   height: 1043.33px;
   margin: 0px;
   padding: 0px;
-
 }
-
 
 .par-sec1 {
   font-size: 36px;
@@ -29,21 +25,11 @@ padding: 0px;
   margin-top: -500px;
 }
 
+.bg-img2 {}
 
+.bg-img3 {}
 
-
-.bg-img2 {
-
-
-}
-
-.bg-img3 {
-
-}
-
-.bg-img4 {
-
-}
+.bg-img4 {}
 
 .bg-img5 {
   background-color: orange;
