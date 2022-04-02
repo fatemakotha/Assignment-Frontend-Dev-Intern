@@ -25,6 +25,12 @@ body {
   margin-top: -500px;
   text-align: left;
 }
+.verse-num {
+  height: 74px;
+  width: 75px;
+  font-size: 30px;
+}
+
 
 .bg-img2 {}
 
