@@ -10,8 +10,7 @@ body {
   padding: 0px;
 }
 
-/* div class ="row" */
-/* columns */
+/* PAGE 1 */
 .bg-img1 {
   position: relative;
   height: 1043.33px;
@@ -33,7 +32,24 @@ body {
 }
 
 
+/* PAGE 2 */
 .bg-img2 {}
+.page2-heading {
+  font-size: 36px;
+  line-height: 74px;
+  margin-top: -930px;
+  margin-left: 100px;
+  text-align: left;
+}
+
+
+
+
+
+
+
+
+
 
 .bg-img3 {}
 
